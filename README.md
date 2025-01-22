@@ -15,12 +15,6 @@ The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, w
 
 ## Project Structure
 ```
-.
-├── imdb_sentiment_analysis.ipynb  # Jupyter Notebook with full code
-├── kaggle.json                     # Kaggle API key file
-├── IMDB Dataset.csv                 # Dataset file
-├── imdb-dataset-of-50k-movie-reviews.zip # Downloaded zip file
-```
 
 ## Steps Involved
 
