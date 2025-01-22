@@ -13,10 +13,6 @@ This project focuses on performing sentiment analysis on IMDB movie reviews usin
 ## Dataset
 The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, which was downloaded from Kaggle.
 
-## Project Structure
-```
-```
-
 ## Steps Involved
 
 1. **Dataset Downloading:**
