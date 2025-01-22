@@ -15,6 +15,7 @@ The dataset used in this project is the **IMDB Dataset of 50K Movie Reviews**, w
 
 ## Project Structure
 ```
+```
 
 ## Steps Involved
 
@@ -75,3 +76,4 @@ This project is under the MIT License.
 
 ## Author
 **Arpan Pramanik**
+
