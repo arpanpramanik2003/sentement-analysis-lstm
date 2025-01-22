@@ -1,0 +1,8 @@
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.1
+tensorflow==2.11.0
+keras==2.11.0
+ipython==8.10.0
+kaggle==1.5.13
+zipfile36==0.1.3
